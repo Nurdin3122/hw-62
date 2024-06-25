@@ -1,0 +1,11 @@
+.block-info {
+    display: flex;
+}
+.text-about-us {
+    padding-left: 50px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    color: #737373;
+    padding-right: 80px;
+}
+

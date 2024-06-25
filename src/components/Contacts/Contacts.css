@@ -1,0 +1,22 @@
+.links-contacts{
+    color: #FFF;
+    font-weight: 500;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+.info-block-contacts{
+    display: flex;
+    flex-direction: column;
+    padding: 40px 40px 40px 40px;
+}
+.block-info-contacts {
+    background-color: #181818;
+    border-radius: 10px;
+}
+
+.block-img-contacts {
+    margin-top: 10px;
+}
+
+
+
