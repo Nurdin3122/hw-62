@@ -18,11 +18,6 @@ const Home = () => {
                         </NavLink>
                     </div>
                     <div className="card">
-                       <span className="text-cards">
-                          Portfolio
-                       </span>
-                    </div>
-                    <div className="card">
                         <NavLink to="contacts">
                              <span className="text-cards">
                                   Contacts
