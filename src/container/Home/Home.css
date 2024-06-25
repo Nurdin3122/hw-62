@@ -38,3 +38,38 @@
     line-height: 100%;
     display: inline-block;
 }
+.block-cards {
+    display: flex;
+    padding-top: 29px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cards-services {
+    display: flex;
+    width: 372px;
+    height: auto;
+    border-radius: 16px;
+    border: 1px solid #D8E6F1;
+    background: #FFF;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.info-cards-services {
+    padding: 20px 0 18px 25px;
+}
+
+.text-cards-services {
+    width: 185px;
+    height: auto;
+    font-size: 20px;
+    color: #545454;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+
+.img-cards-services img{
+    max-width: 174px;
+    height: auto;
+}
